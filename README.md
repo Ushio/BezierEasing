@@ -1,3 +1,3 @@
 ## Bezier easing
 
-![ss](BezierEasing/ss.gif)
+![ss](ss.gif)
