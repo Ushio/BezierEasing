@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "560063D772A894643C683C90D221C3A3E842DE1D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55505DE6675E1AEB4CF72AD63A972936EC984D97" : 0,
+    "560063D772A894643C683C90D221C3A3E842DE1D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F11DEA9E-76E1-43D5-BAB8-6630A504D162",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "55505DE6675E1AEB4CF72AD63A972936EC984D97" : "..\/addons\/ofxImGui",
+    "560063D772A894643C683C90D221C3A3E842DE1D" : "bezier\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "bezier_easing",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "bezier_easing\/bezier_easing.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ushio\/ofxImGui.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55505DE6675E1AEB4CF72AD63A972936EC984D97"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ushio\/BezierEasing.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "560063D772A894643C683C90D221C3A3E842DE1D"
+    }
+  ]
+}
